@@ -1,1 +1,6 @@
 .DS_Store
+
+# Downloaded Cricsheet archives and parsed intermediates; rebuilt by scripts.
+raw/
+*.zip
+*.parquet
