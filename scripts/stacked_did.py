@@ -523,9 +523,14 @@ def main():
     ap.add_argument("--seed", type=int, default=20260914)
     args = ap.parse_args()
     args.out.mkdir(exist_ok=True)
-    {"estimate": cmd_estimate, "placebo": cmd_placebo, "event": cmd_event}[
-        args.command
-    ](args)
+    cmds = {
+        "estimate": cmd_estimate,
+        "placebo": cmd_placebo,
+        "event": cmd_event,
+        "matched": cmd_matched,
+        "matched_placebo": cmd_matched_placebo,
+    }
+    cmds[args.command](args)
 
 
 if __name__ == "__main__":
