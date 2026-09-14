@@ -36,5 +36,16 @@ Each entry is dated and says whether any treated-player outcome had been seen wh
    (SD 5.19) against each player's own residual in the 365 days before the fake date. The career
    baseline builds in a decline that is not caused by infection (plausibly career-stage trends),
    so the recent baseline is primary and the career baseline is reported only as a comparison.
-6. **Minimum player sample.** Chosen by comparing placebo spread across thresholds (none; 30
-   post / 60 pre balls; 60 post / 120 pre balls), without treated outcomes. See entry 7 once run.
+6. **Primary estimator replaced by a stacked event-study DiD with a break (still before any
+   treated-player estimate).** The placebo runs showed the imputation estimator against a
+   2017–2023 player effect drifts negative with no treatment. The primary design is now one stack
+   per infected player: pre window 365 to 14 days before the positive test (the 14-day break drops
+   the pre-symptomatic period and any form dip that prompted testing), the layoff excluded, post
+   window from the first innings back to 90 days later (91–365 secondary). Controls are players who
+   shared a match with the infected player in the pre window, also played in the post window, and
+   were not on the roster within 365 days. Within a stack: y ~ treated x post | player +
+   match-team, weighted by balls or deliveries; stack coefficients are averaged with equal weight;
+   bootstrap over outbreak clusters. Placebo stacks (never-infected players, roster infection
+   dates, layoffs drawn from real layoffs) give the bias check and minimum detectable effect.
+   Minimum samples: 5 pre-window innings for the infected player, 3 pre and 1 post for controls.
+   The imputation estimator is kept only as a comparison.
