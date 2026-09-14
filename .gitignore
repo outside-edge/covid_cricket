@@ -7,3 +7,5 @@ raw/
 results_smoke/
 results_placebo.log
 results_sweep_*
+*.log
+__pycache__/
