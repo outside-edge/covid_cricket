@@ -4,3 +4,5 @@
 raw/
 *.zip
 *.parquet
+results_smoke/
+results_placebo.log
