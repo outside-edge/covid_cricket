@@ -49,3 +49,17 @@ Each entry is dated and says whether any treated-player outcome had been seen wh
    dates, layoffs drawn from real layoffs) give the bias check and minimum detectable effect.
    Minimum samples: 5 pre-window innings for the infected player, 3 pre and 1 post for controls.
    The imputation estimator is kept only as a comparison.
+7. **Absence-matched counterfactual (still before any treated-player estimate).** Placebo stacks
+   on never-infected players drifted about −2 runs per 100 balls (45 replications × 103 stacks:
+   mean −1.97, SD 2.63). Diagnostics on placebo stacks only: adjusting for pre-window form did not
+   remove it (600 stacks: −2.5 unadjusted, −3.0 continuous form, −2.4 form terciles); with the
+   imposed layoff the drift was −2.9 runs per 100 balls and +1.1 dismissals per 100 balls
+   (t ≈ 2.2), and with no layoff it vanished. Players returning from any absence underperform
+   teammates who kept playing. Infected players' absences are long and mostly not caused by
+   illness (median last innings 35–42 days before the positive test; median total absence 98 days
+   batting, 127 bowling), so the teammate comparison alone mixes infection with ordinary
+   comeback effects. Primary estimate is now the infected player's stack coefficient minus the
+   mean coefficient of up to 5 never-infected players who returned from an absence within ±25%
+   of the same length, starting within 365 days, with the pseudo-infection placed at the same
+   offset inside the gap. Pre-specified subgroup: in-season infections (last innings ≤ 30 days
+   before the positive test). The teammate-only estimate is reported as a comparison.
