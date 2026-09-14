@@ -1,0 +1,11 @@
+[project]
+name = "covid-cricket"
+version = "0.0.0"
+requires-python = ">=3.12"
+dependencies = ["pandas>=2.2", "pyarrow>=21"]
+
+[tool.black]
+line-length = 88
+
+[tool.isort]
+profile = "black"
