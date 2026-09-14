@@ -6,3 +6,4 @@ raw/
 *.parquet
 results_smoke/
 results_placebo.log
+results_sweep_*

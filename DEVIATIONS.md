@@ -10,8 +10,9 @@ Each entry is dated and says whether any treated-player outcome had been seen wh
    searched); July 2021–June 2022 was still being collected. Estimates are for the players found,
    and the coverage gaps are reported with them.
 2. **Sample rules fixed before estimation.**
-   - Excluded as not infections: players whose source reports a negative confirmatory test or a
-     ruled false positive (Anrich Nortje, Isuru Udana, Mohammad Hafeez).
+   - Excluded as not infections: players whose source reports a negative confirmatory test, a
+     ruled false positive, or conflicting reports of infection (Anrich Nortje, Isuru Udana,
+     Mohammad Hafeez, Shakib Al Hasan, Jack Edwards).
    - Players identified only through social media (Pakistan in New Zealand, November 2020) are
      kept; a sensitivity check drops them.
    - One episode per player: the first reported positive. Innings after a second reported positive

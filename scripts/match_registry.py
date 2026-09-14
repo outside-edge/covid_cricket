@@ -97,13 +97,13 @@ def main():
     out = pd.DataFrame(rows)
     manual = args.data / "manual_matches.csv"
     if manual.exists():
-        m = pd.read_csv(manual, dtype=str).set_index(["player", "episode"])
-        for idx, mr in m.iterrows():
-            sel = (out["player"] == idx[0]) & (out["episode"].astype(str) == idx[1])
-            out.loc[sel, ["player_id", "status"]] = [
-                mr["player_id"],
-                f"manual: {mr['reason']}",
-            ]
+        # Keyed on player, so a decision applies to every episode; NONE marks a player
+        # with no Cricsheet record.
+        m = pd.read_csv(manual, dtype=str).set_index("player")
+        for player, mr in m.iterrows():
+            sel = out["player"] == player
+            pid = "" if mr["player_id"] == "NONE" else mr["player_id"]
+            out.loc[sel, ["player_id", "status"]] = [pid, f"manual: {mr['reason']}"]
     out.to_csv(args.data / "player_matches.csv", index=False)
     print(out["status"].str.split(":").str[0].value_counts().to_string())
     print(

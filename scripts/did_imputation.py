@@ -28,12 +28,22 @@ DISCIPLINES = {
     "bowling": dict(file="bowl_innings.parquet", y="runs_saved_per6", w="deliveries"),
 }
 SECONDARY = {"batting": "outs_above_exp_per100", "bowling": "wickets_above_exp_per6"}
-EXCLUDE = {"Anrich Nortje", "Isuru Udana", "Mohammad Hafeez"}
+EXCLUDE = {
+    "Anrich Nortje",
+    "Isuru Udana",
+    "Mohammad Hafeez",
+    "Shakib Al Hasan",
+    "Jack Edwards",
+}
 MIN_PRE_INNINGS = 10
 POST_DAYS = 90
 LEADS = [(-180, -91), (-90, -1)]
 CLUSTER_GAP_DAYS = 14
 RECENT_DAYS = 365
+# Minimum balls faced (batting) or deliveries (bowling) per treated player in the post
+# window and in the recent pre window; set by placebo noise, not by treated outcomes.
+MIN_POST_W = 0
+MIN_PRE_W = 0
 
 
 def load_panel(raw, discipline):
@@ -146,13 +156,17 @@ def player_effects(p, fit, y, w, window, baseline="career"):
     d = d[d["yhat"].notna()]
     d["resid"] = d[y] - d["yhat"]
     wavg = lambda x: np.average(x["resid"], weights=x[w])  # noqa: E731
-    post = d[d["post"]].groupby(["player_id", "cluster"])
+    key = ["player_id", "cluster"]
+    post = d[d["post"]].groupby(key)
     eff = post.apply(wavg, include_groups=False).rename("effect")
+    eff = eff[post[w].sum() >= MIN_POST_W]
     if baseline == "recent":
-        pre = d[d["pre"]].groupby(["player_id", "cluster"])
-        eff = (eff - pre.apply(wavg, include_groups=False)).dropna().rename("effect")
+        pre = d[d["pre"]].groupby(key)
+        pre_eff = pre.apply(wavg, include_groups=False)
+        pre_eff = pre_eff[pre[w].sum() >= MIN_PRE_W]
+        eff = (eff - pre_eff).dropna().rename("effect")
     n = post.size().rename("post_innings")
-    return eff.reset_index().merge(n.reset_index(), on=["player_id", "cluster"])
+    return eff.reset_index().merge(n.reset_index(), on=key)
 
 
 def cluster_bootstrap(eff, reps=2000, seed=0):
@@ -278,8 +292,13 @@ def main():
     ap.add_argument("--reps", type=int, default=200)
     ap.add_argument("--seed", type=int, default=20260914)
     ap.add_argument("--drop-social-media", action="store_true")
+    ap.add_argument("--min-post-w", type=int, default=None)
+    ap.add_argument("--min-pre-w", type=int, default=None)
     args = ap.parse_args()
     args.out.mkdir(exist_ok=True)
+    global MIN_POST_W, MIN_PRE_W
+    MIN_POST_W = args.min_post_w if args.min_post_w is not None else MIN_POST_W
+    MIN_PRE_W = args.min_pre_w if args.min_pre_w is not None else MIN_PRE_W
     {"placebo": cmd_placebo, "estimate": cmd_estimate}[args.command](args)
 
 
