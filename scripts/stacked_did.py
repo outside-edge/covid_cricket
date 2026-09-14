@@ -2,17 +2,17 @@
 
 One stack per infected player:
   pre window   [infection - PRE_DAYS, infection - BREAK_DAYS)
-  post window  [return, return + POST_DAYS]   (return = first innings on/after infection)
-  controls     players who shared a match (either side) with the infected player in the
-               pre window, played in the post window, and were not on the infection roster
-               within ROSTER_EXCLUSION_DAYS of the infection.
-Within each stack: y ~ treated x post | player + match-team, weighted by balls (batting) or
-deliveries (bowling). The stack coefficient compares the infected player's change with the
-change of players in the same matches. Stack estimates are averaged with equal weight, and
-intervals come from a bootstrap over outbreak clusters.
+  post window  [return, return + POST_DAYS]; return = first innings on/after infection
+  controls     players who shared a match (either side) with the infected player in
+               the pre window, played in the post window, and were not on the
+               infection roster within ROSTER_EXCLUSION_DAYS of the infection.
+Within each stack: y ~ treated x post | player + match-team, weighted by balls
+(batting) or deliveries (bowling). The stack coefficient compares the infected
+player's change with the change of players in the same matches. Stack estimates are
+averaged with equal weight; intervals come from a bootstrap over outbreak clusters.
 
-Subcommands: estimate (real roster), placebo (fake infections on never-infected players),
-event (binned event study for the real roster).
+Subcommands: estimate (real roster), placebo (fake infections on never-infected
+players), event (binned event study for the real roster).
 """
 
 import argparse
