@@ -63,3 +63,25 @@ Each entry is dated and says whether any treated-player outcome had been seen wh
    of the same length, starting within 365 days, with the pseudo-infection placed at the same
    offset inside the gap. Pre-specified subgroup: in-season infections (last innings ≤ 30 days
    before the positive test). The teammate-only estimate is reported as a comparison.
+8. **Agreed primary design: matched pairs with trajectory matching (2026-09-14, before any
+   treated-player estimate).** Replaces entries 6–7 as primary; they remain comparisons.
+   - Performance per innings: runs above expected per ball (batting) or runs saved per ball
+     (bowling), minus the ball-weighted mean of the player's teammates in the same match-team.
+   - Change: Δ = post mean − pre mean, pre = [infection − 365, infection − 14) days, post =
+     [first innings back, +90] days, ball-weighted.
+   - Matching, 1:3 with replacement, never-infected donors only. Exact: gender, level
+     (international vs club), format of the first innings back, role (batter / bowler /
+     all-rounder from the share of balls faced vs bowled in the pre window). Nearest
+     (standardised distance): absence length (log, within ±25%), absence start within ±365
+     days, career stage (log innings before the pre window), and shrunk teammate-relative form in
+     two trajectory bins, [−365, −183] and [−182, −92] days before the pseudo or real infection.
+     The pseudo infection for a donor sits at the same offset inside its absence.
+   - Effect per infected player: Δ(infected) − mean Δ(matches); average across infected players;
+     bootstrap over outbreak clusters; Wilcoxon signed-rank as a check. Infected players with no
+     eligible match are dropped and counted.
+   - Secondary: post window [91, 365]; in-season infections (last innings ≤ 30 days before test).
+   - Gates, all must hold before the main estimate is interpreted: P1 fake infections among
+     never-infected absence returners matched identically (mean ≈ 0; spread gives the minimum
+     detectable effect); P2 real infected players with dates moved back 365 days (≈ 0); P4 the
+     held-out pre bin [−91, −14] shows no difference between infected players and matches.
+     If P1 or P2 fails the main estimate is reported as uninterpretable.
