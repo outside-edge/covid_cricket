@@ -1,0 +1,15 @@
+Players named as testing positive in archived ESPNcricinfo stories, found by enumerating
+story URLs through the Wayback Machine CDX index and reading the archived text.
+
+```infections
+player,country_or_team,level,competition_or_series,date,date_type,symptomatic_reported,source_url,second_source_url,notes
+James Vince,Multan Sultans (England),franchise,PSL 2020 playoffs,2020-11-09,announcement,unknown,https://www.espncricinfo.com/story/james-vince-set-to-miss-psl-playoffs-after-positive-covid-19-test-1238799,,"Required to self-isolate 10 days from the positive test; followed Mahmudullah's withdrawal"
+Gyanendra Malla,Nepal,international,Nepal national training camp 2020,2020-11-25,announcement,unknown,https://www.espncricinfo.com/story/nepal-captain-gyanendra-malla-two-others-covid-19-positive-1239976,https://www.espncricinfo.com/story/sandeep-lamichhane-tests-positive-for-covid-19-1240241,"Captain; CAN pre-camp testing; announced Wednesday 25 Nov"
+Dipendra Singh Airee,Nepal,international,Nepal national training camp 2020,2020-11-25,announcement,unknown,https://www.espncricinfo.com/story/nepal-captain-gyanendra-malla-two-others-covid-19-positive-1239976,https://www.espncricinfo.com/story/sandeep-lamichhane-tests-positive-for-covid-19-1240241,Vice-captain; CAN pre-camp testing
+Rohit Paudel,Nepal,international,Nepal national training camp 2020,2020-11-25,announcement,unknown,https://www.espncricinfo.com/story/nepal-captain-gyanendra-malla-two-others-covid-19-positive-1239976,https://www.espncricinfo.com/story/sandeep-lamichhane-tests-positive-for-covid-19-1240241,CAN pre-camp testing
+Sandeep Lamichhane,Nepal,international,Nepal national training camp 2020,2020-11-28,announcement,yes,https://www.espncricinfo.com/story/sandeep-lamichhane-tests-positive-for-covid-19-1240241,,"Announced on Instagram; body aches since Wednesday; home isolation; fourth Nepal player positive"
+```
+
+```close_contacts
+player,country_or_team,level,competition_or_series,date,date_type,source_url,notes
+```
