@@ -30,3 +30,11 @@ Each entry is dated and says whether any treated-player outcome had been seen wh
    reported by the same team within 14 days), holding the first stage fixed. The first stage uses
    hundreds of thousands of innings, so its sampling error is small next to the treated-sample
    error; the placebo distribution provides a design-based check on the interval.
+5. **Primary baseline chosen from placebo runs.** 130 placebo replications (fake infection dates
+   assigned to never-infected players, 55 players per replication) gave a mean batting estimate
+   of −1.95 runs per 100 balls (SD 3.70) against each player's 2017–2023 fixed effect, and −0.05
+   (SD 5.19) against each player's own residual in the 365 days before the fake date. The career
+   baseline builds in a decline that is not caused by infection (plausibly career-stage trends),
+   so the recent baseline is primary and the career baseline is reported only as a comparison.
+6. **Minimum player sample.** Chosen by comparing placebo spread across thresholds (none; 30
+   post / 60 pre balls; 60 post / 120 pre balls), without treated outcomes. See entry 7 once run.
