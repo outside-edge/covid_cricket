@@ -85,3 +85,24 @@ Each entry is dated and says whether any treated-player outcome had been seen wh
      detectable effect); P2 real infected players with dates moved back 365 days (≈ 0); P4 the
      held-out pre bin [−91, −14] shows no difference between infected players and matches.
      If P1 or P2 fails the main estimate is reported as uninterpretable.
+9. **Roster expansion for v0.2.0-alpha (2026-09-14; gates and estimate re-run on the new roster).**
+   - Source: every archived ESPNcricinfo story URL in the Wayback Machine CDX index whose slug
+     mentions covid, coronavirus, positive, isolation or quarantine (967 index pages; 1,506
+     unique 2020+ stories after removing doping stories and duplicate IDs;
+     `data/collection/cricinfo_story_index.tsv`). 1,428 stories were fetched with text; 1,009
+     mentioning a positive test, isolation, quarantine or a close contact were read.
+   - Reading: each story was read for named players reported positive, close contacts and false
+     positives, with the supporting sentence. `scripts/merge_extracted.py` keeps a row only if
+     its quote appears verbatim in the stored story and the player is named in the quote or the
+     headline (1,181 of 1,208 rows).
+   - Rules applied before merging: retrospective mentions ("who had Covid earlier") never
+     create an episode (418 rows); positives the reader could only infer are held unless an
+     explicit positive for the same player falls within 60 days (21 rows held, e.g. isolating
+     Melbourne Stars players); non-players sharing a name are dropped (Imran Khan the prime
+     minister, Rajendra Jadeja).
+   - Episodes are dropped when a report within 30 days explicitly calls the result a false
+     positive, a disputed result, or a negative retest (Nortje, Hafeez, Pretorius). A later
+     plain negative test is treated as recovery (e.g. Sarfaraz Ahmed kept).
+   - Episodes sharing a Cricsheet ID within 60 days are merged (different spellings).
+   - Result: 253 episodes, 240 players; 209 players with a matched first infection enter the
+     analysis (previously about 180). 17 more manual matches, each with a reason.

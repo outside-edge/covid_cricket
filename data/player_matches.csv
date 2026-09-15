@@ -3,7 +3,7 @@ Aaradhya Yadav,1,2022-01-19,India U19,manual: No India U19 record; the automatic
 Aaron Jones,1,2021-12-21,USA,unique,17aa4f1d,Aaron Jones,Aaron Jones [17aa4f1d] United States of America; Rangpur Riders n=69
 Abdul Bangalzai,1,2022-01-06,Pakistan U19,unique,0251a22f,Abdul Bangalzai,Abdul Bangalzai [0251a22f] Quetta Gladiators n=5
 Abid Ali,1,2020-11-24,Pakistan,unique,5d836a72,Abid Ali,Abid Ali [5d836a72] Pakistan n=22
-Abu Jayed,1,2020-09-23,Bangladesh,unique,1bb0993e,Abu Jayed,Abu Jayed [1bb0993e] Bangladesh; Chittagong Vikings; Khulna Titans; Rajshahi Royals n=54
+Abu Jayed,1,2020-09-21,Bangladesh,unique,1bb0993e,Abu Jayed,Abu Jayed [1bb0993e] Bangladesh; Chittagong Vikings; Khulna Titans; Rajshahi Royals n=54
 Adam Zampa,1,2022-10-25,Australia,unique,14f96089,A Zampa,A Zampa [14f96089] Australia; Melbourne Stars; Essex; Jamaica Tallawahs n=287
 Adnan Akmal,1,2020-12-02,Pakistan (domestic),unmatched,,,
 Afy Fletcher,1,2022-03-29,West Indies women,manual: ASS Fletcher is the West Indies women spinner; ADS Fletcher is Andre Fletcher,42d9dd09,,ADS Fletcher [1bae756b] West Indies; St Lucia Zouks; St Lucia Stars; St Kitts and Nevis Patriots n=167 | ASS Fletcher [42d9dd09] West Indies; Windward Islands; Barbados Royals n=107
@@ -11,12 +11,15 @@ Aiden Markram,1,2022-06-09,South Africa,unique,6a26221c,AK Markram,AK Markram [6
 Akeal Hosein,1,2021-12-15,West Indies,unique,4d7f517e,AJ Hosein,AJ Hosein [4d7f517e] West Indies; Trinbago Knight Riders; Barbados Tridents; Melbourne Renegades n=158
 Alex Hales,1,2021-12-30,Sydney Thunder (England),unique,92aeac25,AD Hales,AD Hales [92aeac25] Nottinghamshire; England; Sydney Thunder; Islamabad United n=335
 Alex Ross,1,2021-12-30,Sydney Thunder,unique,fb0d68b4,AI Ross,AI Ross [fb0d68b4] Sydney Thunder; Brisbane Heat; Dambulla Aura; South Australia n=88
-Alishan Sharafu,1,2021-01-09,UAE,unique,06cad4f0,A Sharafu,A Sharafu [06cad4f0] United Arab Emirates; Sharjah Warriors n=29
+Alishan Sharafu,1,2021-01-08,UAE,unique,06cad4f0,A Sharafu,A Sharafu [06cad4f0] United Arab Emirates; Sharjah Warriors n=29
+Alok Kapali,1,2021-04-02,Sylhet Division,unique,54279e23,Alok Kapali,Alok Kapali [54279e23] Rajshahi Royals; Sylhet Sixers; Comilla Victorians; Sylhet Sunrisers n=33
+Amelia Kerr,1,2022-07-16,New Zealand women,unique,7673c908,AC Kerr,AC Kerr [7673c908] New Zealand; Brisbane Heat; Wellington; London Spirit n=254
 Amit Mishra,1,2021-05-04,Delhi Capitals,unique,6b19d823,A Mishra,A Mishra [6b19d823] Haryana; Delhi Daredevils; Delhi Capitals; Lucknow Super Giants n=77
 Anderson Phillip,1,2021-12-31,West Indies,unique,f2665768,A Phillip,A Phillip [f2665768] Trinbago Knight Riders; West Indies n=25
 Andy Balbirnie,1,2022-01-10,Ireland,unique,6ef13460,A Balbirnie,A Balbirnie [6ef13460] Ireland; Leinster Lightning; Glamorgan; Khulna Tigers n=205
 Angelo Mathews,1,2022-06-30,Sri Lanka,unique,896d78ad,AD Mathews,AD Mathews [896d78ad] Sri Lanka; Colombo Stars; B-Love Kandy; Colombo Kings n=135
 Anrich Nortje,1,2021-04-14,Delhi Capitals,unique,acdc62f5,A Nortje,A Nortje [acdc62f5] South Africa; Delhi Capitals; Pretoria Capitals; Cape Town Blitz n=144
+Anustup Majumdar,1,2022-01-03,Bengal,unique,f4cb4f53,AP Majumdar,AP Majumdar [f4cb4f53] Bengal n=10
 Anwar Ali,1,2021-05-24,Quetta Gladiators,unique,eb2d5fe7,Anwar Ali,Anwar Ali [eb2d5fe7] Quetta Gladiators; Multan Sultans; Gloucestershire; Dambulla Viiking n=57
 Arshad Iqbal,1,2022-01-24,Peshawar Zalmi,unique,ed031922,Arshad Iqbal,Arshad Iqbal [ed031922] Karachi Kings; Peshawar Zalmi; Pakistan n=27
 Aryan Lakra,1,2021-01-08,UAE,manual: Only Aryan Lakra in Cricsheet (UAE),099135ad,,
@@ -34,7 +37,10 @@ Binura Fernando,1,2021-01-20,Sri Lanka,manual: B Fernando first appears Nov 2020
 Binura Fernando,2,2022-02-12,Sri Lanka,manual: B Fernando first appears Nov 2020 (LPL) as Binura; BOP Fernando first appears Feb 2019 as Oshada Fernando,dabbd0ae,,BOP Fernando [1d048deb] Sri Lanka; Galle Gladiators; Dambulla Viiking n=38 | B Fernando [dabbd0ae] Sri Lanka; Dambulla Aura; Jaffna Kings; Jaffna Stallions n=34
 Bismillah Khan,1,2020-11-04,Balochistan (Pakistan),unmatched,,,
 Blair Tickner,1,2022-05-20,New Zealand,unique,48ad3373,BM Tickner,BM Tickner [48ad3373] Central Districts; Central Stags; New Zealand n=127
+Brayden Stepien,1,2022-01-02,Melbourne Stars,manual: BJ Stepien (Melbourne Renegades); no appearances after Jan 2020,a7060c81,,
 Chamika Karunaratne,1,2021-01-20,Sri Lanka,unique,fb3e0d39,C Karunaratne,C Karunaratne [fb3e0d39] Sri Lanka; Dambulla Giants; Kandy Falcons; Colombo Strikers n=100
+Chapman,1,2022-03-27,New Zealand,unique,7fa12533,MS Chapman,MS Chapman [7fa12533] New Zealand; Auckland; Auckland Aces; St Lucia Stars n=145
+Chetan Chauhan,1,2020-07-12,India (former player),"manual: Former India player, retired; no Cricsheet record in window",,,
 Chirag Suri,1,2021-01-07,UAE,unique,6176f240,Chirag Suri,Chirag Suri [6176f240] United Arab Emirates; Dubai Capitals n=75
 Chris Sabburg,1,2022-01-22,Perth Scorchers,unique,9fc73711,CJM Sabburg,CJM Sabburg [9fc73711] Perth Scorchers n=3
 Colin Munro,1,2022-01-09,Perth Scorchers,unique,af2c687b,C Munro,C Munro [af2c687b] New Zealand; Trinbago Knight Riders; Islamabad United; Perth Scorchers n=323
@@ -42,21 +48,27 @@ Daniel Sams,1,2021-04-07,Royal Challengers Bangalore,unique,caf69bf7,DR Sams,DR 
 Danish Aziz,1,2020-11-24,Pakistan,unique,a4799701,Danish Aziz,Danish Aziz [a4799701] Karachi Kings; Pakistan; Islamabad United; Quetta Gladiators n=12
 David Willey,1,2020-09-16,England / Yorkshire,unique,7f048519,DJ Willey,DJ Willey [7f048519] England; Yorkshire; Perth Scorchers; Northamptonshire n=227
 Deepak Chahar,1,2020-08-28,India / Chennai Super Kings,manual: DL Chahar plays for Chennai Super Kings; RD Chahar is Rahul Chahar,23eeb873,,DL Chahar [23eeb873] Chennai Super Kings; India; Rajasthan; Rising Pune Supergiant n=126 | RD Chahar [2ed569a0] Mumbai Indians; Punjab Kings; Rajasthan; India n=95
+Dennis Bulli,1,2020-08-06,St Kitts & Nevis Patriots,manual: No Cricsheet record,,,
 Devdutt Padikkal,1,2021-03-22,Royal Challengers Bangalore,unique,2c25d4f5,D Padikkal,D Padikkal [2c25d4f5] Royal Challengers Bangalore; Rajasthan Royals; Karnataka; India n=83
 Devon Conway,1,2022-06-15,New Zealand,unique,df5a6881,DP Conway,DP Conway [df5a6881] New Zealand; Wellington; Chennai Super Kings; Wellington Firebirds n=204
 Dhananjaya de Silva,1,2022-07-06,Sri Lanka,manual: DM de Silva is Dhananjaya; NND de Silva is Nishan,7d608e12,,DM de Silva [7d608e12] Sri Lanka; Dambulla Aura; Colombo Stars; Jaffna Stallions n=183 | NND de Silva [f0b4294e] Sri Lanka n=87 | ED Silva [c1b74851] Kuwait n=9 | HDRS Silva [27735054] Sri Lanka n=2
 Dilbar Hussain,1,2020-12-02,Pakistan / Lahore Qalandars,unique,a968d8eb,Dilbar Hussain,Dilbar Hussain [a968d8eb] Lahore Qalandars; Melbourne Stars n=15
 Dipendra Singh Airee,1,2020-11-25,Nepal,unique,1747ea18,DS Airee,DS Airee [1747ea18] Nepal n=118
+Dwaine Pretorius,1,2021-06-24,South Africa,unique,11614d87,D Pretorius,D Pretorius [11614d87] South Africa; Lions; Guyana Amazon Warriors; Northamptonshire n=152
+Ebadot Hossain,1,2021-03-24,Sylhet Division,manual: Cricsheet spells Ebadat Hossain,cb5100f1,,
 Evin Lewis,1,2021-12-31,West Indies,unique,0ebfb1ad,E Lewis,E Lewis [0ebfb1ad] West Indies; St Kitts and Nevis Patriots; Mumbai Indians; Dhaka Dynamites n=207
 Fabian Allen,1,2021-12-31,West Indies,manual: FA Allen plays for West Indies; FH Allen is Finn Allen,b52ffbbd,,FH Allen [bf74b130] New Zealand; Wellington; Lancashire; Auckland Aces n=146 | FA Allen [b52ffbbd] West Indies; St Kitts and Nevis Patriots; Jamaica Tallawahs; Kandy Falcons n=121
 Faheem Ashraf,1,2022-03-09,Pakistan,unique,bd4ea627,Faheem Ashraf,Faheem Ashraf [bd4ea627] Pakistan; Islamabad United; Northamptonshire; Hobart Hurricanes n=184
 Fakhar Zaman,1,2020-06-22,Pakistan,unique,1777c020,Fakhar Zaman,Fakhar Zaman [1777c020] Pakistan; Lahore Qalandars; Glamorgan; B-Love Kandy n=246
-Fawad Ahmed,1,2021-03-01,Islamabad United,unique,22ae3041,Fawad Ahmed,Fawad Ahmed [22ae3041] Perth Scorchers; Sydney Thunder; Trinbago Knight Riders; Quetta Gladiators n=146
-Finn Allen,1,2021-08-24,New Zealand,manual: FH Allen plays for New Zealand,bf74b130,,FH Allen [bf74b130] New Zealand; Wellington; Lancashire; Auckland Aces n=146 | FA Allen [b52ffbbd] West Indies; St Kitts and Nevis Patriots; Jamaica Tallawahs; Kandy Falcons n=121
+Fawad Ahmed,1,2021-02-27,Islamabad United,unique,22ae3041,Fawad Ahmed,Fawad Ahmed [22ae3041] Perth Scorchers; Sydney Thunder; Trinbago Knight Riders; Quetta Gladiators n=146
+Fawad Ahmed,2,2022-02-28,Australia (spin-bowling consultant) / Lahore Qalandars,unique,22ae3041,Fawad Ahmed,Fawad Ahmed [22ae3041] Perth Scorchers; Sydney Thunder; Trinbago Knight Riders; Quetta Gladiators n=146
+Finn Allen,1,2021-08-22,New Zealand,manual: FH Allen plays for New Zealand,bf74b130,,FH Allen [bf74b130] New Zealand; Wellington; Lancashire; Auckland Aces n=146 | FA Allen [b52ffbbd] West Indies; St Kitts and Nevis Patriots; Jamaica Tallawahs; Kandy Falcons n=121
 Gareth Delany,1,2021-12-17,Ireland,unique,33b3d2df,GJ Delany,GJ Delany [33b3d2df] Ireland; Munster Reds; Leinster Lightning; Leicestershire n=120
+Geet Puri,1,2022-01-03,Bengal,manual: No Cricsheet record,,,
 George Dockrell,1,2021-12-17,Ireland,unique,99cddc5e,GH Dockrell,GH Dockrell [99cddc5e] Ireland; Leinster Lightning n=187
 George Dockrell,2,2022-10-23,Ireland,unique,99cddc5e,GH Dockrell,GH Dockrell [99cddc5e] Ireland; Leinster Lightning n=187
 Glenn Maxwell,1,2022-01-05,Melbourne Stars,unique,b681e71e,GJ Maxwell,GJ Maxwell [b681e71e] Australia; Melbourne Stars; Royal Challengers Bangalore; Kings XI Punjab n=338
+Glenn McGrath,1,2022-01-02,Australia (former player),manual: Retired; not a player in the window,,,
 Gyanendra Malla,1,2020-11-25,Nepal,unique,b2e1d224,G Malla,G Malla [b2e1d224] Nepal n=85
 Haider Ali,1,2020-06-21,Pakistan,unique,c13e34f4,Haider Ali,Haider Ali [c13e34f4] Pakistan; Derbyshire; Peshawar Zalmi; Jamaica Tallawahs n=112
 Haider Ali,2,2022-01-25,Peshawar Zalmi,unique,c13e34f4,Haider Ali,Haider Ali [c13e34f4] Pakistan; Derbyshire; Peshawar Zalmi; Jamaica Tallawahs n=112
@@ -64,54 +76,67 @@ Haris Rauf,1,2020-06-21,Pakistan,unique,24bb1c2f,Haris Rauf,Haris Rauf [24bb1c2f
 Haris Rauf,2,2022-03-01,Pakistan,unique,24bb1c2f,Haris Rauf,Haris Rauf [24bb1c2f] Pakistan; Lahore Qalandars; Melbourne Stars; Yorkshire n=197
 Harmanpreet Kaur,1,2021-03-29,India women,unique,53cd8da6,H Kaur,H Kaur [53cd8da6] India; Melbourne Renegades; Sydney Thunder; Lancashire Thunder n=261
 Harry Tector,1,2021-12-17,Ireland,manual: HT Tector plays for Ireland; TH and JB Tector are his brothers,59ea70a4,,HT Tector [59ea70a4] Ireland; Northern Knights; Leinster Lightning; Gloucestershire n=163 | TH Tector [0348f9a5] Leinster Lightning; Munster Reds n=32
+Hayden Walsh,1,2021-01-13,West Indies,unique,1ac2a995,HR Walsh,HR Walsh [1ac2a995] West Indies; Barbados Tridents; United States of America; Barbados Royals n=99
 Heinrich Klaasen,1,2020-12-03,South Africa,unique,235c2bb6,H Klaasen,H Klaasen [235c2bb6] South Africa; Titans; Sunrisers Hyderabad; Durban's Super Giants n=181
 Henry Nicholls,1,2022-05-20,New Zealand,unique,03521fd3,HM Nicholls,HM Nicholls [03521fd3] New Zealand; Canterbury; Derbyshire n=150
+Iftekhar Hossain,1,2020-08-17,Bangladesh U-19,manual: No Cricsheet record (Bangladesh U19),,,
+Imran Butt,1,2020-06-27,Pakistan,manual: Pakistan batter; the other Imran Butt plays for Bahrain,72683b68,,Imran Butt [72683b68] Pakistan; North-West Warriors n=9 | Imran Butt [cc3fb3b3] Bahrain n=2
 Imran Khan,1,2020-06-22,Pakistan,manual: Imran Khan with Pakistan and Multan Sultans appearances; others are Portugal/Bahrain/Fiji players,2b0f2af3,,Imran Khan [2b0f2af3] Multan Sultans; Pakistan n=11 | Imran Khan [a0a32dd1] Portugal n=5
 Irfan Pathan,1,2021-03-29,India Legends (retired),unique,5fa06777,IK Pathan,IK Pathan [5fa06777] Jammu & Kashmir; Kandy Tuskers; Gujarat Lions n=10
 Isuru Udana,1,2021-05-23,Sri Lanka,unique,ac5ae4af,I Udana,I Udana [ac5ae4af] Sri Lanka; Paarl Rocks; Royal Challengers Bangalore; Kandy Falcons n=122
 Jack Edwards,1,2022-01-26,Sydney Sixers,unique,f787e0eb,J Edwards,J Edwards [f787e0eb] Sydney Sixers; New South Wales n=64
+Jaden Carmichael,1,2022-01-21,West Indies U19,unique,c8d45843,JC Carmichael,JC Carmichael [c8d45843] St Kitts and Nevis Patriots; Trinbago Knight Riders n=8
 James Vince,1,2020-11-09,Multan Sultans (England),unique,a15618fe,JM Vince,JM Vince [a15618fe] Hampshire; Sydney Sixers; England; Southern Brave n=363
 Janith Liyanage,1,2022-01-09,Sri Lanka,unique,84212ffb,J Liyanage,J Liyanage [84212ffb] Dambulla Giants; Sri Lanka; Dambulla Aura n=9
 Jaskaran Malhotra,1,2021-12-21,USA,unique,9633359f,JS Malhotra,JS Malhotra [9633359f] United States of America; Los Angeles Knight Riders n=48
 Jeffrey Vandersay,1,2022-07-06,Sri Lanka,unique,aceb7654,JDF Vandersay,JDF Vandersay [aceb7654] Sri Lanka; Colombo Stars; Colombo Strikers; Colombo Kings n=39
+Jess Jonassen,1,2022-07-12,Australia women,unique,0475a86b,JL Jonassen,JL Jonassen [0475a86b] Australia; Brisbane Heat; Delhi Capitals; Lancashire Thunder n=236
 Joe Burns,1,2022-12-13,Melbourne Stars,manual: JA Burns plays for Queensland and Melbourne Stars; RJ Burns is Rory Burns (Surrey),7a5f232a,,RJ Burns [29e8a62e] Surrey; England n=171 | JA Burns [7a5f232a] Queensland; Brisbane Heat; Australia; Melbourne Stars n=111
 Joe Clarke,1,2022-01-03,Melbourne Stars,unique,2eca67f5,JM Clarke,JM Clarke [2eca67f5] Nottinghamshire; Worcestershire; Melbourne Stars; Welsh Fire n=273
 Josh Inglis,1,2022-03-28,Australia,unique,989889ff,JP Inglis,JP Inglis [989889ff] Perth Scorchers; Western Australia; Australia; Leicestershire n=159
 Josh Philippe,1,2022-01-26,Sydney Sixers,unique,39086549,JR Philippe,JR Philippe [39086549] Sydney Sixers; Western Australia; Australia; Sussex n=159
 Junior Dala,1,2021-08-23,South Africa,unique,1cb14aa4,CJ Dala,CJ Dala [1cb14aa4] Titans; Nelson Mandela Bay Giants; South Africa; Delhi Daredevils n=64
 Justin Greaves,1,2021-12-15,West Indies,unique,74d12124,JP Greaves,JP Greaves [74d12124] Barbados Tridents; Barbados Royals; West Indies n=17
+K Gowtham,1,2021-07-29,India,unique,90de905a,K Gowtham,K Gowtham [90de905a] Karnataka; Rajasthan Royals; Lucknow Super Giants; Kings XI Punjab n=62
 KL Rahul,1,2022-07-21,India,unique,b17e2f24,KL Rahul,KL Rahul [b17e2f24] India; Kings XI Punjab; Lucknow Super Giants; Punjab Kings n=255
 Kamran Akmal,1,2022-01-24,Peshawar Zalmi,unique,ff077124,Kamran Akmal,Kamran Akmal [ff077124] Peshawar Zalmi; Pakistan; St Lucia Stars n=77
 Kane Williamson,1,2022-06-09,New Zealand,unique,d027ba9f,KS Williamson,KS Williamson [d027ba9f] New Zealand; Sunrisers Hyderabad; Yorkshire; Barbados Tridents n=248
 Karima Gore,1,2021-12-21,USA,unique,a6bab2a9,K Gore,K Gore [a6bab2a9] United States of America n=24
 Karun Nair,1,2020-08-12,India / Kings XI Punjab,unique,944533a5,KK Nair,KK Nair [944533a5] Karnataka; Kings XI Punjab; Delhi Daredevils; India n=86
 Kashif Bhatti,1,2020-06-22,Pakistan,manual: Only Kashif Bhatti in Cricsheet (one 2017 appearance),e93f608d,,
+Kazi Junaid Saifi,1,2022-01-03,Bengal,manual: No Cricsheet record,,,
 Keegan Petersen,1,2022-02-02,South Africa,unique,bf64dc29,KD Petersen,KD Petersen [bf64dc29] Dolphins; South Africa; Knights; Durham n=37
+Khaled Ahmed,1,2021-04-02,Sylhet Division,unique,5dbdecf1,Khaled Ahmed,Khaled Ahmed [5dbdecf1] Bangladesh; Chittagong Vikings; Fortune Barishal; Khulna Tigers n=48
 Krishnappa Gowtham,1,2021-07-30,India,unique,90de905a,K Gowtham,K Gowtham [90de905a] Karnataka; Rajasthan Royals; Lucknow Super Giants; Kings XI Punjab n=62
 Krunal Pandya,1,2021-07-27,India,unique,5b8c830e,KH Pandya,KH Pandya [5b8c830e] Mumbai Indians; Lucknow Super Giants; Baroda; India n=158
 Kusal Mendis,1,2022-02-07,Sri Lanka,manual: BKG Mendis is Kusal Mendis,5d1e7582,,BKG Mendis [5d1e7582] Sri Lanka; Galle Gladiators; Dambulla Aura; Kandy Tuskers n=234 | PHKD Mendis [08548b13] Sri Lanka; Kandy Falcons; Kandy Warriors; B-Love Kandy n=42
-Kusal Perera,1,2021-08-30,Sri Lanka,manual: MDKJ Perera is Kusal Janith Perera; MDK Perera is Dilruwan Perera,f21043a5,,MDKJ Perera [f21043a5] Sri Lanka; Kandy Tuskers; Dambulla Aura; Colombo Stars n=119 | MDK Perera [5531248e] Sri Lanka; Kandy Tuskers n=39 | AK Perera [c8ad0749] Kandy Warriors; Dambulla Viiking; Sri Lanka; Colombo Strikers n=22
+Kusal Perera,1,2021-08-15,Sri Lanka,manual: MDKJ Perera is Kusal Janith Perera; MDK Perera is Dilruwan Perera,f21043a5,,MDKJ Perera [f21043a5] Sri Lanka; Kandy Tuskers; Dambulla Aura; Colombo Stars n=119 | MDK Perera [5531248e] Sri Lanka; Kandy Tuskers n=39 | AK Perera [c8ad0749] Kandy Warriors; Dambulla Viiking; Sri Lanka; Colombo Strikers n=22
 Kyle Hope,1,2021-01-24,Barbados Pride,manual: KA Hope (West Indies); no Cricsheet appearances after 2017,c59d8f8a,,
 Kyle Jarvis,1,2021-01-26,Zimbabwe,unique,59792462,KM Jarvis,KM Jarvis [59792462] Zimbabwe; Lancashire n=51
-Kyle Mayers,1,2021-12-11,West Indies,unique,73c18486,KR Mayers,KR Mayers [73c18486] West Indies; Barbados Royals; Lucknow Super Giants; St Lucia Stars n=147
+Kyle Mayers,1,2021-12-09,West Indies,unique,73c18486,KR Mayers,KR Mayers [73c18486] West Indies; Barbados Royals; Lucknow Super Giants; St Lucia Stars n=147
 Lahiru Kumara,1,2021-02-21,Sri Lanka,manual: CBRLS Kumara is the Sri Lanka fast bowler; BLCS Kumara plays for Cyprus,4751caa3,,CBRLS Kumara [4751caa3] Sri Lanka; Abu Dhabi Knight Riders; Galle Titans; Dambulla Viiking n=93 | BLCS Kumara [74e3b4fd] Cyprus n=2
 Lahiru Thirimanne,1,2021-02-02,Sri Lanka,unique,c5928dec,HDRL Thirimanne,HDRL Thirimanne [c5928dec] Sri Lanka n=37
 Lance Morris,1,2022-01-22,Perth Scorchers,unique,b08e58e2,LR Morris,LR Morris [b08e58e2] Western Australia; Perth Scorchers; Melbourne Stars n=45
 Lewis Gregory,1,2021-03-02,Islamabad United,unique,06c2de82,L Gregory,L Gregory [06c2de82] Somerset; Trent Rockets; Brisbane Heat; England n=237
+Lockie Ferguson,1,2021-08-24,New Zealand/Yorkshire,unique,2f9d0389,LH Ferguson,LH Ferguson [2f9d0389] New Zealand; Kolkata Knight Riders; Auckland; Derbyshire n=196
 Lorcan Tucker,1,2022-01-10,Ireland,unique,3979b5e0,L Tucker,L Tucker [3979b5e0] Ireland; Leinster Lightning; Trinbago Knight Riders; MI Emirates n=168
 Lungi Ngidi,1,2021-11-24,South Africa,unique,f834dcfc,L Ngidi,L Ngidi [f834dcfc] South Africa; Chennai Super Kings; Titans; Paarl Royals n=154
+Mahmudul Hasan,1,2020-11-28,Gazi Group Chattogram,"manual: Same player as Mahmudul Hasan Joy (Gazi Group Chattogram, Nov 2020)",4b51bd51,,
 Mahmudul Hasan Joy,1,2020-11-28,Bangladesh U19 / Gazi Group Chattogram,unique,4b51bd51,Mahmudul Hasan Joy,Mahmudul Hasan Joy [4b51bd51] Bangladesh; Comilla Victorians; Khulna Tigers n=33
-Mahmudullah,1,2020-11-08,Bangladesh / Multan Sultans,unique,bf1d7d3e,Mahmudullah,Mahmudullah [bf1d7d3e] Bangladesh; Khulna Titans; Fortune Barishal; Quetta Gladiators n=243
+Mahmudullah,1,2020-11-06,Bangladesh / Multan Sultans,unique,bf1d7d3e,Mahmudullah,Mahmudullah [bf1d7d3e] Bangladesh; Khulna Titans; Fortune Barishal; Quetta Gladiators n=243
 Majid Haq,1,2020-03-20,Scotland,unmatched,,,
+Manav Parakh,1,2022-01-21,India U19,manual: No Cricsheet record (India U19),,,
+Mansi Joshi,1,2020-10-10,India women / Velocity,manual: M Joshi (India women); other Joshis are men,47fb8d80,,M Joshi [47fb8d80] India; Gujarat Giants; Supernovas n=29 | AM Joshi [748b7a38] Uttarakhand n=1
 Marcus Stoinis,1,2022-12-13,Melbourne Stars,unique,d9273ee7,MP Stoinis,MP Stoinis [d9273ee7] Australia; Melbourne Stars; Delhi Capitals; Lucknow Super Giants n=303
 Mark Chapman,1,2022-03-27,New Zealand,unique,7fa12533,MS Chapman,MS Chapman [7fa12533] New Zealand; Auckland; Auckland Aces; St Lucia Stars n=145
+Marquino Mindley,1,2021-05-22,West Indies / Jamaica,manual: MJ Mindley (West Indies),b88fa6fe,,
 Mashrafe Mortaza,1,2020-06-19,Bangladesh,unique,e186f49c,Mashrafe Mortaza,Mashrafe Mortaza [e186f49c] Bangladesh; Rangpur Riders; Sylhet Strikers; Dhaka Platoon n=111
 Matthew Wade,1,2022-10-27,Australia,unique,afa7e784,MS Wade,MS Wade [afa7e784] Australia; Hobart Hurricanes; Tasmania; Gujarat Titans n=228
 Melie Kerr,1,2022-07-16,New Zealand women,manual: Melie is Amelia Kerr (AC Kerr); auto-match to JM Kerr was her sister Jess,7673c908,JM Kerr,JM Kerr [9af58032] New Zealand; Wellington; Brisbane Heat; Warriors n=109
 Michael Bracewell,1,2022-06-15,New Zealand,unique,e38bce7a,MG Bracewell,MG Bracewell [e38bce7a] Wellington; New Zealand; Wellington Firebirds; Worcestershire n=142
 Mickey Edwards,1,2022-01-26,Sydney Sixers,unique,5f222a64,MW Edwards,MW Edwards [5f222a64] New South Wales; Sydney Sixers; Yorkshire n=10
 Mitchell Marsh,1,2022-04-18,Delhi Capitals,unique,3d8feaf8,MR Marsh,MR Marsh [3d8feaf8] Australia; Perth Scorchers; Delhi Capitals; Western Australia n=176
-Mitchell Santner,1,2022-07-03,New Zealand,unique,e4a0deae,MJ Santner,MJ Santner [e4a0deae] New Zealand; Northern Districts; Worcestershire; Chennai Super Kings n=265
+Mitchell Santner,1,2022-07-01,New Zealand,unique,e4a0deae,MJ Santner,MJ Santner [e4a0deae] New Zealand; Northern Districts; Worcestershire; Chennai Super Kings n=265
 Moeen Ali,1,2021-01-03,England,unique,bb351c23,MM Ali,MM Ali [bb351c23] England; Worcestershire; Chennai Super Kings; Birmingham Phoenix n=340
 Mohamed Shiraz,1,2021-08-09,Sri Lanka domestic,unique,cdac5a3d,M Shiraz,M Shiraz [cdac5a3d] Galle Gladiators n=3
 Mohammad Abbas,1,2020-11-24,Pakistan,unique,a089f93f,Mohammad Abbas,Mohammad Abbas [a089f93f] Hampshire; Pakistan; Leicestershire; Multan Sultans n=93
@@ -122,25 +147,35 @@ Mohammad Nawaz,1,2021-09-08,Pakistan,unique,3086f7a4,Mohammad Nawaz,Mohammad Naw
 Mohammad Rizwan,1,2020-06-22,Pakistan,unique,2f26ac1a,Mohammad Rizwan,Mohammad Rizwan [2f26ac1a] Pakistan; Multan Sultans; Karachi Kings; Sussex n=237
 Mohammed Shami,1,2022-09-17,India,unique,8cf9814c,Mohammed Shami,Mohammed Shami [8cf9814c] India; Gujarat Titans; Kings XI Punjab; Punjab Kings n=198
 Mominul Haque,1,2020-11-10,Bangladesh,unique,de0a3209,Mominul Haque,Mominul Haque [de0a3209] Bangladesh; Rajshahi Kings; Dhaka Platoon; Comilla Victorians n=72
+Mominul Haque,2,2021-03-28,Bangladesh / Chittagong Division,unique,de0a3209,Mominul Haque,Mominul Haque [de0a3209] Bangladesh; Rajshahi Kings; Dhaka Platoon; Comilla Victorians n=72
 Mujeeb Ur Rahman,1,2020-12-04,Afghanistan / Brisbane Heat,unique,7d92277a,Mujeeb Ur Rahman,Mujeeb Ur Rahman [7d92277a] Brisbane Heat; Kings XI Punjab; Middlesex; Melbourne Renegades n=172
+Mukesh Kumar,1,2020-09-30,Bengal,unique,2cffab74,Mukesh Kumar,Mukesh Kumar [2cffab74] India; Bengal; Delhi Capitals n=42
 Munim Shahriar,1,2022-01-21,Fortune Barishal,unique,dd98b22f,Munim Shahriar,Munim Shahriar [dd98b22f] Fortune Barishal; Khulna Tigers; Bangladesh n=13
 Nafees Iqbal,1,2020-06-20,Bangladesh,unmatched,,,
 Naseem Shah,1,2020-11-24,Pakistan,unique,9c9af282,Naseem Shah,Naseem Shah [9c9af282] Pakistan; Quetta Gladiators; St Kitts and Nevis Patriots; Colombo Strikers n=100
 Naseem Shah,2,2022-09-29,Pakistan,unique,9c9af282,Naseem Shah,Naseem Shah [9c9af282] Pakistan; Quetta Gladiators; St Kitts and Nevis Patriots; Colombo Strikers n=100
 Navdeep Saini,1,2022-01-31,India,unique,21d4e29b,Navdeep Saini,Navdeep Saini [21d4e29b] Royal Challengers Bangalore; Delhi; India; Kent n=81
 Nazmul Islam,1,2020-06-20,Bangladesh,unique,6575e3bc,Nazmul Islam,Nazmul Islam [6575e3bc] Rangpur Riders; Bangladesh; Sylhet Thunder; Sylhet Sunrisers n=50
+Neil Rock,1,2021-07-11,Ireland,unique,43f4087c,NA Rock,NA Rock [43f4087c] Northern Knights; Ireland; Munster Reds n=74
 Nick Hobson,1,2022-01-01,Perth Scorchers,unique,4312e0fd,NR Hobson,NR Hobson [4312e0fd] Perth Scorchers; Western Australia n=33
+Nick Selman,1,2021-06-27,Glamorgan,unique,bab08c8b,NJ Selman,NJ Selman [bab08c8b] Glamorgan n=83
 Nimesh Vimukthi,1,2021-08-09,Sri Lanka domestic,unique,b215a7be,N Vimukthi,N Vimukthi [b215a7be] Kandy Warriors; Galle Gladiators n=7
 Nishant Sindhu,1,2022-01-28,India U19,unique,3cea23da,N Sindhu,N Sindhu [3cea23da] Haryana n=4
 Nitish Rana,1,2021-03-22,Kolkata Knight Riders,unique,fb2d1dda,N Rana,N Rana [fb2d1dda] Kolkata Knight Riders; Delhi; Mumbai Indians; Uttar Pradesh n=145
 Nurul Hasan,1,2022-01-17,Fortune Barishal,unique,d365d463,Nurul Hasan,Nurul Hasan [d365d463] Bangladesh; Dhaka Dynamites; Chattogram Challengers; Rangpur Riders n=116
 Nuwan Thushara,1,2022-01-25,Sri Lanka,unique,ee1b6c27,N Thushara,N Thushara [ee1b6c27] Galle Gladiators; Jaffna Kings; Sri Lanka; Quetta Gladiators n=34
+Ollie Robinson,1,2022-05-26,England/Sussex,"manual: OE Robinson (Sussex, England); OG Robinson is the Kent/Durham batter",0f3ee070,,OG Robinson [60f4c586] Kent; Durham n=126 | OE Robinson [0f3ee070] Sussex; England n=95
+Onaje Amory,1,2022-01-21,West Indies U19,manual: No Cricsheet record (West Indies U19),,,
+Paras Khadka,1,2020-12-11,Nepal,unique,12c3ba4d,P Khadka,P Khadka [12c3ba4d] Nepal n=47
 Pathum Nissanka,1,2022-07-10,Sri Lanka,unique,8ee36b18,P Nissanka,P Nissanka [8ee36b18] Sri Lanka; Kandy Falcons; Colombo Strikers; Colombo Stars n=110
-Paul Stirling,1,2021-12-31,Ireland,unique,cf494ffe,PR Stirling,PR Stirling [cf494ffe] Ireland; Middlesex; Northern Knights; Birmingham Bears n=309
+Paul Stirling,1,2021-12-30,Ireland,unique,cf494ffe,PR Stirling,PR Stirling [cf494ffe] Ireland; Middlesex; Northern Knights; Birmingham Bears n=309
 Peter Handscomb,1,2021-07-12,Middlesex (Australia),unique,ada15e88,PSP Handscomb,PSP Handscomb [ada15e88] Victoria; Australia; Melbourne Stars; Hobart Hurricanes n=234
 Pooja Vastrakar,1,2022-07-26,India women,unique,8026ea72,P Vastrakar,P Vastrakar [8026ea72] India; Brisbane Heat; Mumbai Indians; Supernovas n=107
+Pradipta Pramanik,1,2022-01-03,Bengal,unique,24e3f53e,Pradipta Pramanik,Pradipta Pramanik [24e3f53e] Bengal n=8
+Prashant Solanki,1,2021-10-28,Mumbai,unique,c695b423,PH Solanki,PH Solanki [c695b423] Mumbai; Chennai Super Kings n=4
 Prasidh Krishna,1,2021-05-06,Kolkata Knight Riders,unique,85e0cf10,M Prasidh Krishna,M Prasidh Krishna [85e0cf10] Kolkata Knight Riders; India; Karnataka; Rajasthan Royals n=95
 Praveen Jayawickrama,1,2022-07-04,Sri Lanka,unique,b7d1eadd,P Jayawickrama,P Jayawickrama [b7d1eadd] Sri Lanka; Jaffna Kings; Dambulla Aura n=19
+R Ashwin,1,2022-06-20,India,unique,495d42a5,R Ashwin,R Ashwin [495d42a5] India; Rajasthan Royals; Kings XI Punjab; Delhi Capitals n=184
 Ravichandran Ashwin,1,2022-06-21,India,unique,495d42a5,R Ashwin,R Ashwin [495d42a5] India; Rajasthan Royals; Kings XI Punjab; Delhi Capitals n=184
 Ravinderpal Singh,1,2020-11-20,Canada / Colombo Kings,unique,f80682f8,Ravinderpal Singh,Ravinderpal Singh [f80682f8] Canada n=46
 Regis Chakabva,1,2020-10-22,Zimbabwe,unique,2f0d7e4a,RW Chakabva,RW Chakabva [2f0d7e4a] Zimbabwe n=74
@@ -148,7 +183,8 @@ Rishabh Pant,1,2021-07-08,India,unique,919a3be2,RR Pant,RR Pant [919a3be2] India
 Rohail Nazir,1,2020-11-24,Pakistan,unique,522bea89,Rohail Nazir,Rohail Nazir [522bea89] Islamabad United; Karachi Kings; Multan Sultans; Pakistan n=11
 Rohit Paudel,1,2020-11-25,Nepal,unique,1a3cc554,RK Paudel,RK Paudel [1a3cc554] Nepal n=93
 Rohit Sharma,1,2022-06-25,India,manual: RG Sharma plays for India and Mumbai Indians,740742ef,,RG Sharma [740742ef] India; Mumbai Indians n=325 | RP Sharma [805b89d7] Haryana n=23
-Roston Chase,1,2021-12-11,West Indies,unique,3feda4fa,RL Chase,RL Chase [3feda4fa] West Indies; St Lucia Kings; St Lucia Zouks; Barbados Tridents n=133
+Roston Chase,1,2021-12-09,West Indies,unique,3feda4fa,RL Chase,RL Chase [3feda4fa] West Indies; St Lucia Kings; St Lucia Zouks; Barbados Tridents n=133
+Ruhan Pretorius,1,2021-03-04,Ireland A (Ireland Wolves),unique,8ff85f5c,R Pretorius,R Pretorius [8ff85f5c] Northern Knights n=40
 Ruturaj Gaikwad,1,2020-08-28,India / Chennai Super Kings,unique,45a43fe2,RD Gaikwad,RD Gaikwad [45a43fe2] Chennai Super Kings; Maharashtra; India n=110
 Ruturaj Gaikwad,2,2022-02-01,India,unique,45a43fe2,RD Gaikwad,RD Gaikwad [45a43fe2] Chennai Super Kings; Maharashtra; India n=110
 S Badrinath,1,2021-03-28,India Legends (retired),unmatched,,,
@@ -156,6 +192,7 @@ S Meghana,1,2022-07-26,India women,unique,302fb7ae,S Meghana,S Meghana [302fb7ae
 Sachin Tendulkar,1,2021-03-27,India Legends (retired),unmatched,,,
 Sachindu Colombage,1,2021-08-09,Sri Lanka domestic,unique,4b6f6b73,S Colombage,S Colombage [4b6f6b73] Kandy Warriors; Dambulla Viiking n=9
 Saif Hassan,1,2020-09-07,Bangladesh,unique,bb95564b,Saif Hassan,Saif Hassan [bb95564b] Bangladesh; Fortune Barishal; Khulna Tigers n=16
+Sairaj Patil,1,2021-10-28,Mumbai,unique,79b35258,Sairaj Patil,Sairaj Patil [79b35258] Mumbai n=3
 Sam Whiteman,1,2021-12-30,Sydney Thunder,unique,f4427cc6,SM Whiteman,SM Whiteman [f4427cc6] Western Australia; Northamptonshire; Perth Scorchers; Sydney Thunder n=88
 Sana Mir,1,2021-01-04,Pakistan women (former captain),unique,b287e7b1,Sana Mir,Sana Mir [b287e7b1] Pakistan; Sapphires n=60
 Sandeep Lamichhane,1,2020-11-28,Nepal,unique,b410bd3d,S Lamichhane,S Lamichhane [b410bd3d] Nepal; Hobart Hurricanes; Melbourne Stars; Jamaica Tallawahs n=205
@@ -163,17 +200,22 @@ Sandeep Warrier,1,2021-05-03,Kolkata Knight Riders,unique,cdc6bdba,S Sandeep War
 Sandun Weerakkody,1,2021-07-10,Sri Lanka (alternative/back-up national squad),unique,3473e5f2,DS Weerakkody,DS Weerakkody [3473e5f2] Sri Lanka; Dambulla Giants n=5
 Sarel Erwee,1,2022-04-11,South Africa,unique,a3ce3d1d,SJ Erwee,SJ Erwee [a3ce3d1d] Dolphins; South Africa; Sunrisers Eastern Cape; Durban Heat n=41
 Sarfaraz Ahmed,1,2020-11-24,Pakistan,manual: Cricsheet spells Sarfraz Ahmed; Pakistan wicketkeeper; auto-match to S Waqas Ahmed was wrong,2254ab79,S Waqas Ahmed,S Waqas Ahmed [fb27d38c] Norway n=12
+Sarfaraz Khan,1,2021-10-28,Mumbai,manual: SN Khan (Mumbai),f088b960,,SN Khan [f088b960] Mumbai; Kings XI Punjab; Delhi Capitals; Uttar Pradesh n=57 | SF Khan [25986786] Rajasthan n=11
 Shadab Khan,1,2020-06-21,Pakistan,unique,9de62878,Shadab Khan,Shadab Khan [9de62878] Pakistan; Islamabad United; Yorkshire; Sussex n=294
+Shadman Islam,1,2021-03-28,Dhaka Metropolis,unique,246d11a2,Shadman Islam,Shadman Islam [246d11a2] Bangladesh; Chittagong Vikings; Rangpur Rangers; Dhaka Dynamites n=17
 Shahid Afridi,1,2020-06-13,Pakistan / Multan Sultans,unique,0dc00542,Shahid Afridi,Shahid Afridi [0dc00542] Multan Sultans; Comilla Victorians; Hampshire; Peshawar Zalmi n=86
 Shahid Afridi,2,2022-01-27,Quetta Gladiators,unique,0dc00542,Shahid Afridi,Shahid Afridi [0dc00542] Multan Sultans; Comilla Victorians; Hampshire; Peshawar Zalmi n=86
 Shai Hope,1,2021-01-24,Barbados Pride / West Indies,unique,1fc6ef83,SD Hope,SD Hope [1fc6ef83] West Indies; Guyana Amazon Warriors; Barbados Tridents; Barbados Royals n=226
 Shai Hope,2,2021-12-15,West Indies,unique,1fc6ef83,SD Hope,SD Hope [1fc6ef83] West Indies; Guyana Amazon Warriors; Barbados Tridents; Barbados Royals n=226
 Shaik Rasheed,1,2022-01-19,India U19,unique,cbf58a86,SK Rasheed,SK Rasheed [cbf58a86] Andhra n=4
 Shakib Al Hasan,1,2022-05-10,Bangladesh,unique,7dc35884,Shakib Al Hasan,Shakib Al Hasan [7dc35884] Bangladesh; Dhaka Dynamites; Fortune Barishal; Sunrisers Hyderabad n=256
-Shane Getkate,1,2021-12-31,Ireland,unique,c8065f31,SC Getkate,SC Getkate [c8065f31] North-West Warriors; Ireland; Northern Knights n=91
-Sheldon Cottrell,1,2021-12-11,West Indies,unique,a1d053dd,SS Cottrell,SS Cottrell [a1d053dd] West Indies; St Kitts and Nevis Patriots; Desert Vipers; Kings XI Punjab n=136
+Shams Mulani,1,2021-10-28,Mumbai,unique,9d704f6f,SZ Mulani,SZ Mulani [9d704f6f] Mumbai n=32
+Shane Getkate,1,2021-12-30,Ireland,unique,c8065f31,SC Getkate,SC Getkate [c8065f31] North-West Warriors; Ireland; Northern Knights n=91
+Sheldon Cottrell,1,2021-12-09,West Indies,unique,a1d053dd,SS Cottrell,SS Cottrell [a1d053dd] West Indies; St Kitts and Nevis Patriots; Desert Vipers; Kings XI Punjab n=136
 Shikhar Dhawan,1,2022-01-31,India,unique,0a476045,S Dhawan,S Dhawan [0a476045] India; Delhi Capitals; Sunrisers Hyderabad; Punjab Kings n=260
 Shiran Fernando,1,2021-05-23,Sri Lanka,manual: SIP Fernando is the only Sri Lanka candidate,5838cb64,,SIP Fernando [5838cb64] Sri Lanka n=23 | MGSM Fernando [658c2e71] Italy n=16 | RS Fernando [24d72446] Dambulla Aura; Colombo Stars n=7
+Shivam Dube,1,2022-01-03,Mumbai,unique,a4e37e47,S Dube,S Dube [a4e37e47] Mumbai; Chennai Super Kings; India; Royal Challengers Bangalore n=102
+Shreyan Chakraborty,1,2020-09-30,Bengal,manual: No Cricsheet record,,,
 Shreyas Iyer,1,2022-02-02,India,unique,85ec8e33,SS Iyer,SS Iyer [85ec8e33] India; Delhi Capitals; Delhi Daredevils; Mumbai n=223
 Siddarth Yadav,1,2022-01-19,India U19,manual: No India U19 record; the automatic match SA Yadav is Suryakumar Yadav,,SA Yadav,SA Yadav [271f83cd] India; Mumbai Indians; Mumbai; Kolkata Knight Riders n=222
 Simi Singh,1,2022-01-08,Ireland,unique,c9945bdf,Simi Singh,Simi Singh [c9945bdf] Ireland; Leinster Lightning n=126
@@ -181,6 +223,8 @@ Sohail Tanvir,1,2020-11-20,Pakistan / Kandy Tuskers,unique,64d43928,Sohail Tanvi
 Solo Nqweni,1,2020-05-07,Warriors / Eastern Province (South Africa),manual: SSN Nqweni (Warriors); last Cricsheet appearance Dec 2017,179bea21,,
 Soumya Sarkar,1,2022-01-21,Khulna Tigers,unique,4d9f9686,Soumya Sarkar,Soumya Sarkar [4d9f9686] Bangladesh; Cumilla Warriors; Dhaka Dominators; Chittagong Vikings n=162
 Steven Taylor,1,2021-12-21,USA,"manual: SR Taylor (male, USA); the female SR Taylor is Stafanie Taylor",a9231c3f,,SR Taylor [92cf79a8] West Indies; Sydney Thunder; Western Storm; Adelaide Strikers n=189 | SR Taylor [a9231c3f] United States of America; Jamaica Tallawahs; MI New York; Guyana Amazon Warriors n=87 | SJ Taylor [e6f36f83] England; Surrey Stars; Welsh Fire; Northern Diamonds n=67
+Sudip Chatterjee,1,2022-01-03,Bengal,unique,0cb8626f,Sudip Chatterjee,Sudip Chatterjee [0cb8626f] Bengal; Tripura n=18
+Sujit Yadav,1,2022-01-03,Bengal,unique,d0920019,Sujit Yadav,Sujit Yadav [d0920019] Bengal n=1
 T Natarajan,1,2021-09-22,Sunrisers Hyderabad (India),unique,ce794613,T Natarajan,T Natarajan [ce794613] Sunrisers Hyderabad; Tamil Nadu; India; Kings XI Punjab n=71
 Tahlia McGrath,1,2022-08-07,Australia women,unique,ca5acfa4,TM McGrath,TM McGrath [ca5acfa4] Adelaide Strikers; Australia; Lancashire Thunder; UP Warriorz n=200
 Tanveer Sangha,1,2021-12-30,Sydney Thunder,unique,52c952d9,T Sangha,T Sangha [52c952d9] Sydney Thunder; Australia; New South Wales; Birmingham Phoenix n=53
@@ -190,6 +234,8 @@ Tim Seifert,1,2021-05-07,Kolkata Knight Riders / New Zealand,unique,4663bd23,TL 
 Tim Seifert,2,2022-04-20,Delhi Capitals,unique,4663bd23,TL Seifert,TL Seifert [4663bd23] Northern Districts; New Zealand; Trinbago Knight Riders; Galle Titans n=197
 Timycen Maruma,1,2020-10-22,Zimbabwe,unique,f55c526f,T Maruma,T Maruma [f55c526f] Zimbabwe n=10
 Tom Banton,1,2021-03-02,Quetta Gladiators,unique,25f7b7d6,T Banton,T Banton [25f7b7d6] Somerset; England; Welsh Fire; Colombo Stars n=177
+Tom Clark,1,2021-06-29,Sussex,unique,ed8faea2,TGR Clark,TGR Clark [ed8faea2] Sussex n=68
+Tom Helm,1,2021-06-16,Middlesex,unique,74a274cc,TG Helm,TG Helm [74a274cc] Middlesex; Birmingham Phoenix; Gulf Giants n=148
 Tom Rogers,1,2022-01-03,Melbourne Stars,manual: TF Rogers plays for Melbourne Stars; TS Rogers plays for Hobart and Tasmania,7f232d46,,TS Rogers [1b04e02b] Hobart Hurricanes; Tasmania; Melbourne Renegades n=67 | TF Rogers [7f232d46] Melbourne Stars; Victoria n=27
 Travis Head,1,2021-12-31,Australia,unique,12b610c2,TM Head,TM Head [12b610c2] Australia; South Australia; Adelaide Strikers; Sussex n=229
 Trevon Griffith,1,2021-01-24,Guyana Jaguars,unmatched,,,
@@ -198,11 +244,11 @@ Varun Chakravarthy,1,2021-05-03,Kolkata Knight Riders,manual: Cricsheet records 
 Wahab Riaz,1,2020-06-22,Pakistan,unique,b3118300,Wahab Riaz,Wahab Riaz [b3118300] Peshawar Zalmi; Pakistan; Barbados Tridents; Derbyshire n=198
 Wahab Riaz,2,2022-01-25,Peshawar Zalmi,unique,b3118300,Wahab Riaz,Wahab Riaz [b3118300] Peshawar Zalmi; Pakistan; Barbados Tridents; Derbyshire n=198
 Wanindu Hasaranga,1,2022-02-15,Sri Lanka,manual: Cricsheet records Hasaranga as PWH de Silva,a97c8ec2,,
-Washington Sundar,1,2022-01-12,India,unique,f19ccfad,Washington Sundar,Washington Sundar [f19ccfad] India; Royal Challengers Bangalore; Tamil Nadu; Sunrisers Hyderabad n=151
+Washington Sundar,1,2022-01-11,India,unique,f19ccfad,Washington Sundar,Washington Sundar [f19ccfad] India; Royal Challengers Bangalore; Tamil Nadu; Sunrisers Hyderabad n=151
 Wiaan Mulder,1,2022-04-11,South Africa,unique,c96f6ac5,PWA Mulder,PWA Mulder [c96f6ac5] Leicestershire; South Africa; Lions; Durban's Super Giants n=130
 Will Sutherland,1,2021-11-19,Victoria,unique,bc2d4f2e,W Sutherland,W Sutherland [bc2d4f2e] Victoria; Melbourne Renegades n=99
 Wriddhiman Saha,1,2021-05-04,Sunrisers Hyderabad,unique,fe11caa6,WP Saha,WP Saha [fe11caa6] Sunrisers Hyderabad; Gujarat Titans; India; Bengal n=110
 Yash Dhull,1,2022-01-19,India U19,unique,dd7e9b3b,YV Dhull,YV Dhull [dd7e9b3b] Delhi; Delhi Capitals n=12
 Yusuf Pathan,1,2021-03-27,India Legends (retired),unique,3c6ffae8,YK Pathan,YK Pathan [3c6ffae8] Sunrisers Hyderabad; Baroda; Kolkata Knight Riders; Dubai Capitals n=66
-Yuzvendra Chahal,1,2021-07-30,India,unique,57ee1fde,YS Chahal,YS Chahal [57ee1fde] India; Royal Challengers Bangalore; Rajasthan Royals; Haryana n=272
+Yuzvendra Chahal,1,2021-07-29,India,unique,57ee1fde,YS Chahal,YS Chahal [57ee1fde] India; Royal Challengers Bangalore; Rajasthan Royals; Haryana n=272
 Zafar Sarfraz,1,2020-04-13,Peshawar (Pakistan),unmatched,,,

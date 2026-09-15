@@ -39,6 +39,7 @@ MIN_PRE_INNINGS = 10
 POST_DAYS = 90
 LEADS = [(-180, -91), (-90, -1)]
 CLUSTER_GAP_DAYS = 14
+FALSE_POSITIVE_DAYS = 30
 RECENT_DAYS = 365
 # Minimum balls faced (batting) or deliveries (bowling) per treated player in the post
 # window and in the recent pre window; set by placebo noise, not by treated outcomes.
@@ -68,6 +69,31 @@ def roster(data):
     m = pd.read_csv(data / "player_matches.csv", dtype={"player_id": str})
     inf = inf.merge(m[["player", "episode", "player_id"]], on=["player", "episode"])
     inf = inf[inf["player_id"].notna() & ~inf["player"].isin(EXCLUDE)]
+    # Drop episodes contradicted by a negative retest or ruled false positive within
+    # FALSE_POSITIVE_DAYS for the same player.
+    fp_path = data / "collection" / "cricinfo_archive_false_positives.csv"
+    if fp_path.exists():
+        fp = pd.read_csv(fp_path, parse_dates=["date"])
+        # A later negative test usually means recovery; count explicit contradictions.
+        said = (fp["quote"].fillna("") + " " + fp["notes"].fillna("")).str.lower()
+        fp = fp[said.str.contains(r"false|re-?test|private test|second test|disput")]
+        bad = inf.merge(fp[["player", "date"]], on="player", suffixes=("", "_fp"))
+        bad = bad[(bad["date"] - bad["date_fp"]).abs().dt.days <= FALSE_POSITIVE_DAYS]
+        inf = inf[
+            ~inf.set_index(["player", "episode"]).index.isin(
+                bad.set_index(["player", "episode"]).index
+            )
+        ]
+    # Different spellings of one player can produce two episodes on the same dates.
+    inf = inf.sort_values("date")
+    keep, last = [], {}
+    for idx, r in inf.iterrows():
+        prev = last.get(r["player_id"])
+        if prev is None or (r["date"] - prev).days > 60:
+            keep.append(idx)
+            last[r["player_id"]] = r["date"]
+    inf = inf.loc[keep]
+    inf["episode"] = inf.groupby("player_id").cumcount() + 1
     second = inf[inf["episode"] == 2].set_index("player_id")["date"]
     first = inf[inf["episode"] == 1].copy()
     first["next_infection"] = first["player_id"].map(second)
