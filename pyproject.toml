@@ -1,6 +1,6 @@
 [project]
 name = "covid-cricket"
-version = "0.1.0a0"
+version = "0.2.0a0"
 requires-python = ">=3.12"
 dependencies = ["pandas>=2.2", "pyarrow>=21", "pyfixest>=0.60", "scipy>=1.14"]
 
